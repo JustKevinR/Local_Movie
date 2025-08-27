@@ -10,7 +10,7 @@ body, html {
   left:0;
   width:100%;
   height:100%;
-  background: url('https://images.unsplash.com/photo-1507525428034-b723cf961d3e') no-repeat center center/cover;
+  background: url(dark-vip-cinema-studio-still-life.jpg) no-repeat center center/cover;
   z-index: -2;
 }
 
@@ -44,7 +44,7 @@ body, html {
 
 .service-card {
   display: block;
-  background: rgba(255,255,255,0.05);
+  background: rgba(255, 255, 255, 0.062);
   border-radius: 10px;
   padding: 10px;
   text-align: center;
